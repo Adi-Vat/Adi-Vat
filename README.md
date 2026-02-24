@@ -1,8 +1,8 @@
 # Hello
 EEE/CSE student. I make things from scratch to understand how they work.  
 No tutorials when exploring a subject for fun (particulary in [Excursions](https://github.com/Adi-Vat/Excursions/tree/main)) to maintain curiosity and obsession :)  
-Each project starts with a question.  
-Mainly hardware/physics adjacent projects. I also work on Team Bath Heart as the head of the VR development subteam.  
+Each project starts with a question; mainly hardware/physics adjacent.  
+I also work on Team Bath Heart as the head of the VR development subteam.  
 
 | C | C# | Python | Arduino C++ |
 
